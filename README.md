@@ -1,17 +1,17 @@
 Olá, me chamo Paulo Victor 👋
 
 💻 Residente em Tecnologia da Informação no Tribunal Regional Federal da 5ª Região.
+
 💻 Pós-graduação em Desenvolvimento de Software no IMD/UFRN
 
-🔭 Atualmente, estou trabalhando em projetos com ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) and ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+🔭 Atualmente, estou trabalhando em projetos com ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) e ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white).
 
 Em 2022/2023, concluí o curso de Desenvolvimento Full-Stack na [Trybe](https://www.betrybe.com/).
 
 Ferramentas e Tecnologias:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -33,7 +33,8 @@ Ferramentas e Tecnologias:
 Contatos 📫
 
 📧 Email me at: p.victordsouza@gmail.com
-	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulovictorfds/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulovictorfds/)
 
 <!---
 paulovictorfds/paulovictorfds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
